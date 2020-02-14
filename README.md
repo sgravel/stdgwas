@@ -1,2 +1,2 @@
 # stdgwas
-Simulating confounders in GWAS
+A public library of genotype-phenotype simulations. 
